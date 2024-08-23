@@ -1,0 +1,31 @@
+.about-section {
+    padding: 50px;
+    background-color: #f7f7f7;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .vertical-timeline-element--education .vertical-timeline-element-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .vertical-timeline-element--work .vertical-timeline-element-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .vertical-timeline-element--education .vertical-timeline-element-subtitle,
+  .vertical-timeline-element--work .vertical-timeline-element-subtitle {
+    font-size: 1rem;
+    color: #888;
+  }
+  
+  .vertical-timeline-element-content {
+    text-align: left;
+  }
+  
